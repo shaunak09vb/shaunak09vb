@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaunak Varudandi</h1>
+<h1 align="center">Hi 👋, My Name is Shaunak Varudandi</h1>
 <h3 align="center">I'm a Computer Engineering Graduate and a Software Engineer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://shaunakvarudandi.netlify.app/](https://shaunakvarudandi.netlify.app/)
