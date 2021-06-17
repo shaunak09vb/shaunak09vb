@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **varudandishaunak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/184siCJfgBEBOZGSmmBoFd9PHHNg0zwT-/view?usp=sharing](https://drive.google.com/file/d/184siCJfgBEBOZGSmmBoFd9PHHNg0zwT-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QUX2T4rEUac4_DP9p4fpWtghSYCK7AnW/view?usp=sharing](https://drive.google.com/file/d/1QUX2T4rEUac4_DP9p4fpWtghSYCK7AnW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
