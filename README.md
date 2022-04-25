@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, My Name is Shaunak Varudandi</h1>
-<h3 align="center">I'm a Computer Engineering Graduate and a Software Engineer.</h3>
+<h3 align="center">I'm a Computer Engineering Graduate.</h3>
 
 - 👨‍💻 All of my projects are available at [https://shaunakvarudandi.netlify.app/](https://shaunakvarudandi.netlify.app/)
 
 - 📝 I regularly write articles on [https://shaunakvarudandi.medium.com/](https://shaunakvarudandi.medium.com/)
 
 - 📫 How to reach me **varudandishaunak@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QUX2T4rEUac4_DP9p4fpWtghSYCK7AnW/view?usp=sharing](https://drive.google.com/file/d/1QUX2T4rEUac4_DP9p4fpWtghSYCK7AnW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
