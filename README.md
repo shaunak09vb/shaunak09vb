@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaunak-varudandi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="shaunak-varudandi" height="30" width="40" /></a>
-<a href="https://kaggle.com/shaunakvarudandi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="shaunakvarudandi" height="30" width="40"/></a>
 <a href="https://medium.com/@shaunakvarudandi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="@shaunakvarudandi" height="30" width="40" /></a>
 </p>
 
