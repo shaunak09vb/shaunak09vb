@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Shaunak Varudandi</h1>
-<h3 align="center">I'm a Computer Engineering Graduate.</h3>
-
-- 👨‍💻 All of my projects are available at [https://shaunakvarudandi.netlify.app/](https://shaunakvarudandi.netlify.app/)
+<h3 align="center">I'm an MBA (Co-op) student at the DeGroote School of Business.</h3>
 
 - 📝 I regularly write articles on [https://shaunakvarudandi.medium.com/](https://shaunakvarudandi.medium.com/)
 
