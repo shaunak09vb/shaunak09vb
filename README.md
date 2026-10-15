@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My Name is Shaunak Varudandi</h1>
-<h3 align="center">I'm an MBA (Co-op) student at the DeGroote School of Business.</h3>
+<h3 align="center">I’m a Senior Associate, Sustainability Assurance at PwC.</h3>
 
-- 📝 I regularly write articles on [https://shaunakvarudandi.medium.com/](https://shaunakvarudandi.medium.com/)
+- 📝 I write articles on [https://shaunakvarudandi.medium.com/](https://shaunakvarudandi.medium.com/)
 
 - 📫 How to reach me **varudandishaunak@gmail.com**
 
